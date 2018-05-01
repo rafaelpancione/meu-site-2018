@@ -31,3 +31,9 @@ body {
   opacity: 0.90;
 }
 
+.logo {
+margin: 0 auto;
+width: 160.35px;
+height: 160.88px;
+background: url(logo.svg);
+}
