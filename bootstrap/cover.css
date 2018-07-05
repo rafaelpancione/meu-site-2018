@@ -1,18 +1,13 @@
-/* Links */
 a,
 a:focus,
 a:hover {
   color: #fff;
 }
 
-/*
- * Base structure
- */
-
 html,
 body {
   height: 100%;
-  background: url(bg.jpg);
+  background: url(../img/bg.png);
   background-repeat: no-repeat; 
   background-size: cover;
 }
@@ -26,14 +21,9 @@ body {
 
 }
 
-.cover-container {
-  background-color: #000;
-  opacity: 0.80;
-}
-
 .logo {
 margin: 0 auto;
 width: 160.35px;
 height: 160.88px;
-background: url(logo.svg);
+background: url(../img/logo.svg);
 }
